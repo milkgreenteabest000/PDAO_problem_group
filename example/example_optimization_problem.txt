@@ -1,0 +1,7 @@
+其實就是atcoder的新手練習題第二題
+https://atcoder.jp/contests/practice/tasks/practice_2
+
+官方的範例解法排序是線性排序然後只能通過第一大測資
+我後來嘗試了mergesort, quicksort, topological sort, binary insertion都只過第二大測資，第三大測資還是沒過
+
+反正就任意參考看看
